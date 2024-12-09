@@ -1,0 +1,1 @@
+This repository demonstrates a common error in MongoDB aggregation pipelines. The bug involves incorrect field referencing within the $sum operator, leading to unexpected aggregation results. The solution provides the correct way to reference fields within the $sum operator for accurate aggregation.
